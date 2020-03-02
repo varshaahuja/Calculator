@@ -1,2 +1,5 @@
-# Created by pytest automatically.
-*
+.vagrant
+*.log
+venv
+__pycache__
+.idea
