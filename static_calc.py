@@ -1,7 +1,7 @@
 class calculator:
 
-      #def __init__(self): check with Prof why was the initialization necessary as it does not impact the code
-      #        pass
+      #def __init__(self): #check with Prof why was the initialization necessary as it does not impact the code
+	#	pass
       
       #addition
       @staticmethod
