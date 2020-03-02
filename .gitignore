@@ -1,5 +1,0 @@
-.vagrant
-*.log
-venv
-__pycache__
-.idea
